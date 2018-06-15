@@ -1,0 +1,3 @@
+需要2个第三方Python包
+pygame
+pyopengl
